@@ -1,0 +1,1 @@
+console.log('compact関数の実装');
